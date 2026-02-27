@@ -1,0 +1,108 @@
+[
+ {
+  "charts": [],
+  "content": "[{\"id\":\"rRKiEOblXi\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Agency Management</span>\",\"col\":12}},{\"id\":\"svj9tZSQNv\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Agency\",\"col\":4}},{\"id\":\"nxhX-8O0Ub\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Agency Lead Times\",\"col\":3}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": null,
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Agency Management",
+  "links": [],
+  "modified": "2026-02-27 12:42:49.350745",
+  "module": "Inayah Erp",
+  "name": "Agency Management",
+  "number_cards": [],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [
+   {
+    "document_type": "Agency",
+    "label": "Agency",
+    "parent": "Agency Management",
+    "parentfield": "quick_lists",
+    "parenttype": "Workspace",
+    "quick_list_filter": "[]"
+   }
+  ],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 23.0,
+  "shortcuts": [
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Agency Lead Times",
+    "link_to": "Agency Lead Times",
+    "parent": "Agency Management",
+    "parentfield": "shortcuts",
+    "parenttype": "Workspace",
+    "report_ref_doctype": "Agency",
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "Report",
+    "url": null
+   }
+  ],
+  "title": "Agency Management"
+ },
+ {
+  "charts": [],
+  "content": "[{\"id\":\"xSAcRLoEcD\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Manufacturer–Item Mapping</span>\",\"col\":12}},{\"id\":\"d8b5PuNrwD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items by Manufacturer\",\"col\":3}},{\"id\":\"NZtIfpwX8_\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Manufacturer\",\"col\":4}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "getting-started",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Manufacturer–Item Mapping",
+  "links": [],
+  "modified": "2026-02-27 13:26:30.494626",
+  "module": "Inayah Erp",
+  "name": "Manufacturer–Item Mapping",
+  "number_cards": [],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [
+   {
+    "document_type": "Manufacturer",
+    "label": "Manufacturer",
+    "parent": "Manufacturer–Item Mapping",
+    "parentfield": "quick_lists",
+    "parenttype": "Workspace",
+    "quick_list_filter": "[]"
+   }
+  ],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 24.0,
+  "shortcuts": [
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Items by Manufacturer",
+    "link_to": "Items by Manufacturer",
+    "parent": "Manufacturer–Item Mapping",
+    "parentfield": "shortcuts",
+    "parenttype": "Workspace",
+    "report_ref_doctype": "Manufacturer",
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "Report",
+    "url": null
+   }
+  ],
+  "title": "Manufacturer–Item Mapping"
+ }
+]

@@ -1,0 +1,44 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"xSAcRLoEcD\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Manufacturer\u2013Item Mapping</span>\",\"col\":12}},{\"id\":\"d8b5PuNrwD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items by Manufacturer\",\"col\":3}},{\"id\":\"NZtIfpwX8_\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Manufacturer\",\"col\":4}}]",
+ "creation": "2026-02-27 13:25:06.077565",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "getting-started",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Manufacturer\u2013Item Mapping",
+ "links": [],
+ "modified": "2026-02-27 13:26:30.494626",
+ "modified_by": "Administrator",
+ "module": "Inayah Erp",
+ "name": "Manufacturer\u2013Item Mapping",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Manufacturer",
+   "label": "Manufacturer",
+   "quick_list_filter": "[]"
+  }
+ ],
+ "roles": [],
+ "sequence_id": 24.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Items by Manufacturer",
+   "link_to": "Items by Manufacturer",
+   "report_ref_doctype": "Manufacturer",
+   "type": "Report"
+  }
+ ],
+ "title": "Manufacturer\u2013Item Mapping"
+}

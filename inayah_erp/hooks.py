@@ -44,7 +44,7 @@ app_license = "mit"
 
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
-# doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
+doctype_list_js = {"Agency" : "inayah_erp/doctype/agency/agency_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
@@ -137,13 +137,15 @@ app_license = "mit"
 # ---------------
 # Hook on document methods and events
 
-# doc_events = {
-# 	"*": {
-# 		"on_update": "method",
-# 		"on_cancel": "method",
-# 		"on_trash": "method"
-# 	}
-# }
+doc_events = {
+	"Manufacturer": {
+		"validate": [
+            "inayah_erp.crud_events.check_if_manufacturer_blocked",
+            "inayah_erp.crud_events.validate_unique_manufacturer_item",
+            "inayah_erp.crud_events.auto_fill_part_number"
+        ]
+	}
+}
 
 # Scheduled Tasks
 # ---------------
@@ -242,3 +244,31 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+
+fixtures = [
+
+    # Custom Fields
+    {
+        "doctype": "Custom Field",
+        "filters": [
+            ["module", "=", "Inayah ERP"]
+        ]
+    },
+
+    # Property Setters
+    {
+        "doctype": "Property Setter",
+        "filters": [
+            ["module", "=", "Inayah ERP"]
+        ]
+    },
+
+    # Workspace
+    {
+        "doctype": "Workspace",
+        "filters": [
+            ["module", "=", "Inayah ERP"]
+        ]
+    }
+]

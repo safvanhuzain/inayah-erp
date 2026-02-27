@@ -1,0 +1,56 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2026-02-27 11:26:31.595666",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "item_code",
+  "min_order_quantity",
+  "lead_time_days",
+  "lead_date"
+ ],
+ "fields": [
+  {
+   "fieldname": "item_code",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Item Code",
+   "options": "Item"
+  },
+  {
+   "fieldname": "min_order_quantity",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Min Order Quantity"
+  },
+  {
+   "fieldname": "lead_time_days",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Lead Time days"
+  },
+  {
+   "fieldname": "lead_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Lead time Date"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2026-02-27 11:30:27.955827",
+ "modified_by": "Administrator",
+ "module": "Inayah Erp",
+ "name": "Agency Item",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

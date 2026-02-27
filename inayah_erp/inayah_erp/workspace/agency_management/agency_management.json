@@ -1,0 +1,43 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"rRKiEOblXi\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Agency Management</span>\",\"col\":12}},{\"id\":\"svj9tZSQNv\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Agency\",\"col\":4}},{\"id\":\"nxhX-8O0Ub\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Agency Lead Times\",\"col\":3}}]",
+ "creation": "2026-02-27 11:14:10.485035",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Agency Management",
+ "links": [],
+ "modified": "2026-02-27 12:42:49.350745",
+ "modified_by": "Administrator",
+ "module": "Inayah Erp",
+ "name": "Agency Management",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Agency",
+   "label": "Agency",
+   "quick_list_filter": "[]"
+  }
+ ],
+ "roles": [],
+ "sequence_id": 23.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Agency Lead Times",
+   "link_to": "Agency Lead Times",
+   "report_ref_doctype": "Agency",
+   "type": "Report"
+  }
+ ],
+ "title": "Agency Management"
+}
