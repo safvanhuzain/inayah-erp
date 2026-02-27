@@ -1,0 +1,79 @@
+[
+ {
+  "agency": "SAFVAN",
+  "agent_primary_contact": null,
+  "docstatus": 0,
+  "doctype": "Agency",
+  "email_id": null,
+  "is_active": 0,
+  "items": [],
+  "mobile_no": null,
+  "modified": "2026-02-27 16:12:21.297361",
+  "name": "SAFVAN",
+  "territory": "India"
+ },
+ {
+  "agency": "Test Inayah",
+  "agent_primary_contact": "njncsk kmkmlm kmml",
+  "docstatus": 0,
+  "doctype": "Agency",
+  "email_id": "debdhc@gmail.com",
+  "is_active": 1,
+  "items": [
+   {
+    "item_code": "FAB-Loop Knit-Black-Black-000001",
+    "lead_date": "2026-02-28",
+    "lead_time_days": "4",
+    "min_order_quantity": 3.0,
+    "parent": "Test Inayah",
+    "parentfield": "items",
+    "parenttype": "Agency"
+   },
+   {
+    "item_code": "ddd",
+    "lead_date": null,
+    "lead_time_days": "50",
+    "min_order_quantity": 2.0,
+    "parent": "Test Inayah",
+    "parentfield": "items",
+    "parenttype": "Agency"
+   }
+  ],
+  "mobile_no": "489587495",
+  "modified": "2026-02-27 16:11:58.261082",
+  "name": "Test Inayah",
+  "territory": "Rest Of The World"
+ },
+ {
+  "agency": "Pinnacle LTD",
+  "agent_primary_contact": null,
+  "docstatus": 0,
+  "doctype": "Agency",
+  "email_id": null,
+  "is_active": 1,
+  "items": [
+   {
+    "item_code": "VITAMIN D",
+    "lead_date": null,
+    "lead_time_days": "5",
+    "min_order_quantity": 300.0,
+    "parent": "Pinnacle LTD",
+    "parentfield": "items",
+    "parenttype": "Agency"
+   },
+   {
+    "item_code": "VITAMIN E",
+    "lead_date": null,
+    "lead_time_days": "2",
+    "min_order_quantity": 250.0,
+    "parent": "Pinnacle LTD",
+    "parentfield": "items",
+    "parenttype": "Agency"
+   }
+  ],
+  "mobile_no": null,
+  "modified": "2026-02-27 17:06:37.866410",
+  "name": "Pinnacle LTD",
+  "territory": "UAE"
+ }
+]

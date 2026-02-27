@@ -1,0 +1,54 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Agency Item",
+  "item_code": "FAB-Loop Knit-Black-Black-000001",
+  "lead_date": "2026-02-28",
+  "lead_time_days": "4",
+  "min_order_quantity": 3.0,
+  "modified": "2026-02-27 16:11:58.261082",
+  "name": "3srejr4dgs",
+  "parent": "Test Inayah",
+  "parentfield": "items",
+  "parenttype": "Agency"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Agency Item",
+  "item_code": "VITAMIN D",
+  "lead_date": null,
+  "lead_time_days": "5",
+  "min_order_quantity": 300.0,
+  "modified": "2026-02-27 17:06:37.866410",
+  "name": "s4u0he2bu7",
+  "parent": "Pinnacle LTD",
+  "parentfield": "items",
+  "parenttype": "Agency"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Agency Item",
+  "item_code": "ddd",
+  "lead_date": null,
+  "lead_time_days": "50",
+  "min_order_quantity": 2.0,
+  "modified": "2026-02-27 16:11:58.261082",
+  "name": "3sr37ppk5d",
+  "parent": "Test Inayah",
+  "parentfield": "items",
+  "parenttype": "Agency"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Agency Item",
+  "item_code": "VITAMIN E",
+  "lead_date": null,
+  "lead_time_days": "2",
+  "min_order_quantity": 250.0,
+  "modified": "2026-02-27 17:06:37.866410",
+  "name": "4dqrt7l5a2",
+  "parent": "Pinnacle LTD",
+  "parentfield": "items",
+  "parenttype": "Agency"
+ }
+]

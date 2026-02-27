@@ -1,0 +1,54 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Manufacturer Item",
+  "gtin": null,
+  "item_code": "FAB-Loop Knit-Black-Black-000001",
+  "manufacturer": "Safvan",
+  "modified": "2026-02-27 13:13:35.899896",
+  "name": "kghcs2bbss",
+  "parent": "Safvan",
+  "parentfield": "custom_items",
+  "parenttype": "Manufacturer",
+  "part_number": "FAB-Loop Knit-Black-Black-000001"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Manufacturer Item",
+  "gtin": null,
+  "item_code": "ddd",
+  "manufacturer": "Safvan",
+  "modified": "2026-02-27 16:18:17.094804",
+  "name": "02h6imdgmt",
+  "parent": "dhnkjd",
+  "parentfield": "custom_items",
+  "parenttype": "Manufacturer",
+  "part_number": "ddd"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Manufacturer Item",
+  "gtin": null,
+  "item_code": "ddd",
+  "manufacturer": "Safvan",
+  "modified": "2026-02-27 13:13:35.899896",
+  "name": "qfbrpdvq3b",
+  "parent": "Safvan",
+  "parentfield": "custom_items",
+  "parenttype": "Manufacturer",
+  "part_number": "ddd"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Manufacturer Item",
+  "gtin": null,
+  "item_code": "FAB-Loop Knit-Black-Black-000001",
+  "manufacturer": "Safvan",
+  "modified": "2026-02-27 16:18:17.094804",
+  "name": "02hg2gu7tm",
+  "parent": "dhnkjd",
+  "parentfield": "custom_items",
+  "parenttype": "Manufacturer",
+  "part_number": "16617"
+ }
+]

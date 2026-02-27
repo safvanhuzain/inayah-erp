@@ -247,6 +247,11 @@ doc_events = {
 
 
 fixtures = [
+    "Agency",
+    "Agency Item",
+    "Manufacturer",
+    "Manufacturer Item",
+    "Supplier",
 
     # Custom Fields
     {

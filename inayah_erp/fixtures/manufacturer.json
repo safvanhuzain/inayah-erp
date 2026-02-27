@@ -1,0 +1,70 @@
+[
+ {
+  "country": "India",
+  "custom_gln": "3e32",
+  "custom_is_blocked": 0,
+  "custom_items": [
+   {
+    "gtin": null,
+    "item_code": "FAB-Loop Knit-Black-Black-000001",
+    "manufacturer": "Safvan",
+    "parent": "Safvan",
+    "parentfield": "custom_items",
+    "parenttype": "Manufacturer",
+    "part_number": "FAB-Loop Knit-Black-Black-000001"
+   },
+   {
+    "gtin": null,
+    "item_code": "ddd",
+    "manufacturer": "Safvan",
+    "parent": "Safvan",
+    "parentfield": "custom_items",
+    "parenttype": "Manufacturer",
+    "part_number": "ddd"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Manufacturer",
+  "full_name": null,
+  "logo": null,
+  "modified": "2026-02-27 13:13:35.899896",
+  "name": "Safvan",
+  "notes": null,
+  "short_name": "Safvan",
+  "website": null
+ },
+ {
+  "country": "India",
+  "custom_gln": null,
+  "custom_is_blocked": 0,
+  "custom_items": [
+   {
+    "gtin": null,
+    "item_code": "ddd",
+    "manufacturer": "Safvan",
+    "parent": "dhnkjd",
+    "parentfield": "custom_items",
+    "parenttype": "Manufacturer",
+    "part_number": "ddd"
+   },
+   {
+    "gtin": null,
+    "item_code": "FAB-Loop Knit-Black-Black-000001",
+    "manufacturer": "Safvan",
+    "parent": "dhnkjd",
+    "parentfield": "custom_items",
+    "parenttype": "Manufacturer",
+    "part_number": "16617"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Manufacturer",
+  "full_name": null,
+  "logo": null,
+  "modified": "2026-02-27 16:18:17.094804",
+  "name": "dhnkjd",
+  "notes": null,
+  "short_name": "dhnkjd",
+  "website": null
+ }
+]
