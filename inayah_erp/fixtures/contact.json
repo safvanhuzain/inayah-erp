@@ -1,0 +1,60 @@
+[
+ {
+  "address": "ndka-Billing",
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "debdhc@gmail.com",
+  "email_ids": [
+   {
+    "email_id": "debdhc@gmail.com",
+    "is_primary": 1,
+    "parent": "njncsk kmkmlm kmml",
+    "parentfield": "email_ids",
+    "parenttype": "Contact"
+   }
+  ],
+  "first_name": "njncsk",
+  "full_name": "njncsk kmkmlm kmml",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": "",
+  "is_billing_contact": 0,
+  "is_primary_contact": 0,
+  "last_name": "kmml",
+  "links": [
+   {
+    "link_doctype": "Customer",
+    "link_name": "kakkak",
+    "link_title": "kakkak",
+    "parent": "njncsk kmkmlm kmml",
+    "parentfield": "links",
+    "parenttype": "Contact"
+   }
+  ],
+  "middle_name": "kmkmlm",
+  "mobile_no": "489587495",
+  "modified": "2026-02-27 11:18:38.094486",
+  "name": "njncsk kmkmlm kmml",
+  "phone": "",
+  "phone_nos": [
+   {
+    "is_primary_mobile_no": 1,
+    "is_primary_phone": 0,
+    "parent": "njncsk kmkmlm kmml",
+    "parentfield": "phone_nos",
+    "parenttype": "Contact",
+    "phone": "489587495"
+   }
+  ],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ }
+]

@@ -252,7 +252,14 @@ fixtures = [
     "Manufacturer",
     "Manufacturer Item",
     "Supplier",
-
+    "Territory",
+    "Item",
+    "Item Group",
+    "Contact",
+    "Address",
+    "Contact Email",
+    "Contact Phone",
+    "Dynamic Link",
     # Custom Fields
     {
         "doctype": "Custom Field",

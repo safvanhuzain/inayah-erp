@@ -1,0 +1,50 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Territory",
+  "is_group": 1,
+  "modified": "2025-10-12 11:05:42.599167",
+  "name": "All Territories",
+  "old_parent": "",
+  "parent_territory": null,
+  "targets": [],
+  "territory_manager": null,
+  "territory_name": "All Territories"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Territory",
+  "is_group": 0,
+  "modified": "2025-10-12 11:05:42.607821",
+  "name": "India",
+  "old_parent": "All Territories",
+  "parent_territory": "All Territories",
+  "targets": [],
+  "territory_manager": null,
+  "territory_name": "India"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Territory",
+  "is_group": 0,
+  "modified": "2025-10-12 11:05:42.614108",
+  "name": "Rest Of The World",
+  "old_parent": "All Territories",
+  "parent_territory": "All Territories",
+  "targets": [],
+  "territory_manager": null,
+  "territory_name": "Rest Of The World"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Territory",
+  "is_group": 0,
+  "modified": "2026-02-27 16:51:53.589534",
+  "name": "UAE",
+  "old_parent": "All Territories",
+  "parent_territory": "All Territories",
+  "targets": [],
+  "territory_manager": null,
+  "territory_name": "UAE"
+ }
+]
